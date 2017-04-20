@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 9230389730508142314 (0x8018ee8e2159f6ea)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=CA, L=SanFrancisco, O=SaferVPN, OU=SaferVPN, CN=SaferVPN/name=SaferVPN/emailAddress=support@safervpn.com
+        Validity
+            Not Before: Jan 15 16:27:14 2013 GMT
+            Not After : Jan 13 16:27:14 2023 GMT
+        Subject: C=US, ST=CA, L=SanFrancisco, O=SaferVPN, OU=SaferVPN, CN=SaferVPN/name=SaferVPN/emailAddress=support@safervpn.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c7:9f:57:12:9e:6f:f5:47:54:f0:22:55:57:50:
+                    ee:91:86:91:8c:86:a3:a3:b6:5f:7b:31:b1:1a:43:
+                    d7:ad:3c:2b:75:c6:8c:42:4f:c5:33:8f:ea:29:e5:
+                    84:87:79:91:c2:ee:5e:44:c4:c4:c2:7b:8c:c2:a2:
+                    8d:f9:1c:f1:7e:4f:c1:d7:6b:2c:f3:37:61:98:43:
+                    48:25:f8:6e:90:0c:ec:0e:88:da:f2:2b:cc:87:a1:
+                    98:b0:fa:be:18:ca:95:91:28:35:6e:19:be:ac:3e:
+                    31:32:37:02:04:6c:e8:78:ad:08:ae:a9:6c:0b:0b:
+                    75:44:e1:9e:ed:42:b7:a9:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                05:D8:F9:5C:43:9E:74:09:67:C6:6D:11:2C:B6:A8:0C:D7:5C:35:CA
+            X509v3 Authority Key Identifier: 
+                keyid:05:D8:F9:5C:43:9E:74:09:67:C6:6D:11:2C:B6:A8:0C:D7:5C:35:CA
+                DirName:/C=US/ST=CA/L=SanFrancisco/O=SaferVPN/OU=SaferVPN/CN=SaferVPN/name=SaferVPN/emailAddress=support@safervpn.com
+                serial:80:18:EE:8E:21:59:F6:EA
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         18:77:dd:b3:d1:06:fe:5b:96:f2:35:3a:b1:eb:4a:a1:f2:09:
+         6c:1a:6d:de:98:78:ab:b1:33:84:62:21:55:6e:ce:3c:0c:99:
+         1e:32:85:98:5a:34:0d:0a:d3:b5:c7:49:56:dd:40:68:df:64:
+         67:a5:cf:27:b8:5d:dd:d4:8f:94:7b:60:fb:42:be:5c:9a:be:
+         33:d5:53:47:c2:20:a2:12:65:a2:19:e4:b7:b5:13:7c:1c:af:
+         0b:c0:da:4e:a8:cb:db:82:8e:c1:a4:c8:67:ef:db:6e:30:89:
+         b4:31:b4:7f:1d:57:72:2d:15:bd:c0:66:91:d1:ba:b2:ff:52:
+         64:d1
+
+
+-----BEGIN CERTIFICATE-----
+MIID0TCCAzqgAwIBAgIJAIAY7o4hWfbqMA0GCSqGSIb3DQEBBQUAMIGiMQswCQYD
+VQQGEwJVUzELMAkGA1UECBMCQ0ExFTATBgNVBAcTDFNhbkZyYW5jaXNjbzERMA8G
+A1UEChMIU2FmZXJWUE4xETAPBgNVBAsTCFNhZmVyVlBOMREwDwYDVQQDEwhTYWZl
+clZQTjERMA8GA1UEKRMIU2FmZXJWUE4xIzAhBgkqhkiG9w0BCQEWFHN1cHBvcnRA
+c2FmZXJ2cG4uY29tMB4XDTEzMDExNTE2MjcxNFoXDTIzMDExMzE2MjcxNFowgaIx
+CzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEVMBMGA1UEBxMMU2FuRnJhbmNpc2Nv
+MREwDwYDVQQKEwhTYWZlclZQTjERMA8GA1UECxMIU2FmZXJWUE4xETAPBgNVBAMT
+CFNhZmVyVlBOMREwDwYDVQQpEwhTYWZlclZQTjEjMCEGCSqGSIb3DQEJARYUc3Vw
+cG9ydEBzYWZlcnZwbi5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMef
+VxKeb/VHVPAiVVdQ7pGGkYyGo6O2X3sxsRpD1608K3XGjEJPxTOP6inlhId5kcLu
+XkTExMJ7jMKijfkc8X5PwddrLPM3YZhDSCX4bpAM7A6I2vIrzIehmLD6vhjKlZEo
+NW4Zvqw+MTI3AgRs6HitCK6pbAsLdUThnu1Ct6k9AgMBAAGjggELMIIBBzAdBgNV
+HQ4EFgQUBdj5XEOedAlnxm0RLLaoDNdcNcowgdcGA1UdIwSBzzCBzIAUBdj5XEOe
+dAlnxm0RLLaoDNdcNcqhgaikgaUwgaIxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJD
+QTEVMBMGA1UEBxMMU2FuRnJhbmNpc2NvMREwDwYDVQQKEwhTYWZlclZQTjERMA8G
+A1UECxMIU2FmZXJWUE4xETAPBgNVBAMTCFNhZmVyVlBOMREwDwYDVQQpEwhTYWZl
+clZQTjEjMCEGCSqGSIb3DQEJARYUc3VwcG9ydEBzYWZlcnZwbi5jb22CCQCAGO6O
+IVn26jAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBABh33bPRBv5blvI1
+OrHrSqHyCWwabd6YeKuxM4RiIVVuzjwMmR4yhZhaNA0K07XHSVbdQGjfZGelzye4
+Xd3Uj5R7YPtCvlyavjPVU0fCIKISZaIZ5Le1E3wcrwvA2k6oy9uCjsGkyGfv224w
+ibQxtH8dV3ItFb3AZpHRurL/UmTR
+-----END CERTIFICATE-----
